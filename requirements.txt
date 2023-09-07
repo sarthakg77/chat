@@ -3,7 +3,6 @@ matplotlib
 openai
 streamlit
 pandas
-=======
 langchain==0.0.173
 numpy==1.24.3
 python-dotenv==1.0.0
