@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import openai
 
-st.title("Bank Customer Data Analysis")
+st.title("Detailed Data Analysis")
 
 # Move the OpenAI API key input to the sidebar
 OPENAI_API_KEY = st.sidebar.text_input(label=":key: OpenAI Key:", 
